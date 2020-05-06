@@ -112,7 +112,7 @@ export class OAuthService extends AuthConfig implements OnDestroy {
     protected urlHelper: UrlHelperService,
     protected logger: OAuthLogger,
     @Optional() protected crypto: HashHandler,
-    @Inject(DOCUMENT) private document: Document
+    @Inject(DOCUMENT) private document
   ) {
     super();
 

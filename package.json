@@ -87,11 +87,6 @@
     "tslint": "~5.18.0",
     "typescript": "^3.7.5"
   },
-  "husky": {
-    "hooks": {
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
-    }
-  },
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
