@@ -1,8 +1,8 @@
 {
-  "name": "angular-oauth2-oidc",
+  "name": "@elgerm/angular-oauth2-oidc",
   "license": "MIT",
   "author": {
-    "name": "Manfred Steyer"
+    "name": "elgerm"
   },
   "version": "9.1.0",
   "repository": "manfredsteyer/angular-oauth2-oidc",
