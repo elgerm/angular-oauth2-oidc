@@ -5,7 +5,7 @@
     "name": "elgerm"
   },
   "version": "9.1.0",
-  "repository": "manfredsteyer/angular-oauth2-oidc",
+  "repository": "elgerm/angular-oauth2-oidc",
   "dependencies": {
     "js-sha256": "^0.9.0"
   },
